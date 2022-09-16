@@ -1,4 +1,4 @@
-# Hi
+# Hi!
 
 Long story short I wanted to donate to open source projects. I added an "Open source support fees" line item on my invoices and a few of my clients didn't bat an eyelid (I had awesome clients). 
 
